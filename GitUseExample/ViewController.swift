@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("This is a super Git tutorial")
         print("Tutorial is finished")
         print("First local commit")
-
+        print("Second local commit")
     }
     
     override func didReceiveMemoryWarning() {
