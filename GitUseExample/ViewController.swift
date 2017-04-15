@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     @IBAction func buttonClicked(_ sender: UIButton) {
         print("This is a super Git tutorial")
         print("Tutorial is finished")
+        print("First local commit")
+
     }
     
     override func didReceiveMemoryWarning() {
