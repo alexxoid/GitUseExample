@@ -12,6 +12,7 @@
 		8D2836EF1EA1E2A6009E1D07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D2836ED1EA1E2A6009E1D07 /* Main.storyboard */; };
 		8D2836F11EA1E2A6009E1D07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D2836F01EA1E2A6009E1D07 /* Assets.xcassets */; };
 		8D2836F41EA1E2A6009E1D07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D2836F21EA1E2A6009E1D07 /* LaunchScreen.storyboard */; };
+		8DB775961EA200E700678DA1 /* Another big test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB775951EA200E700678DA1 /* Another big test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8D2836F01EA1E2A6009E1D07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D2836F31EA1E2A6009E1D07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D2836F51EA1E2A6009E1D07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DB775951EA200E700678DA1 /* Another big test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Another big test.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				8D2836E91EA1E2A6009E1D07 /* AppDelegate.swift */,
 				8D2836EB1EA1E2A6009E1D07 /* ViewController.swift */,
+				8DB775951EA200E700678DA1 /* Another big test.swift */,
 				8D2836ED1EA1E2A6009E1D07 /* Main.storyboard */,
 				8D2836F01EA1E2A6009E1D07 /* Assets.xcassets */,
 				8D2836F21EA1E2A6009E1D07 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				8D2836EC1EA1E2A6009E1D07 /* ViewController.swift in Sources */,
 				8D2836EA1EA1E2A6009E1D07 /* AppDelegate.swift in Sources */,
+				8DB775961EA200E700678DA1 /* Another big test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				8D2836FA1EA1E2A6009E1D07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
